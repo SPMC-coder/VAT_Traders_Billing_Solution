@@ -7,6 +7,12 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vat_traders_billing_solutio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAT_Traders_Billing_Solution.Server", "VAT_Traders_Billing_Solution.Server\VAT_Traders_Billing_Solution.Server.csproj", "{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatTraders.Domain", "VatTraders.Domain\VatTraders.Domain.csproj", "{A8C64D4A-547A-4B4F-9225-C9530579D67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatTraders.Application", "VatTraders.Application\VatTraders.Application.csproj", "{A2A11EA2-7CF3-42D5-9E1A-3E1D0CA2D0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatTraders.Infrastructure", "VatTraders.Infrastructure\VatTraders.Infrastructure.csproj", "{D35A6174-4C97-4005-9E0A-451D4EA0B8A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +29,18 @@ Global
 		{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C64D4A-547A-4B4F-9225-C9530579D67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C64D4A-547A-4B4F-9225-C9530579D67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C64D4A-547A-4B4F-9225-C9530579D67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C64D4A-547A-4B4F-9225-C9530579D67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A11EA2-7CF3-42D5-9E1A-3E1D0CA2D0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A11EA2-7CF3-42D5-9E1A-3E1D0CA2D0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A11EA2-7CF3-42D5-9E1A-3E1D0CA2D0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A11EA2-7CF3-42D5-9E1A-3E1D0CA2D0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35A6174-4C97-4005-9E0A-451D4EA0B8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35A6174-4C97-4005-9E0A-451D4EA0B8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35A6174-4C97-4005-9E0A-451D4EA0B8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35A6174-4C97-4005-9E0A-451D4EA0B8A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
