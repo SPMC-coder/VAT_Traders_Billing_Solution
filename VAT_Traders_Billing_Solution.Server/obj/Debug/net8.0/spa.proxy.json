@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57799",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\VAT_Traders_Billing_Solution.Server\\..\\vat_traders_billing_solution.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

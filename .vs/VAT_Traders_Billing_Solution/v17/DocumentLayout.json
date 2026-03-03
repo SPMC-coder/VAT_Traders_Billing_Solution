@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B218E79D-03E8-B008-8A7B-2164A6BF2F56}|vat_traders_billing_solution.client\\vat_traders_billing_solution.client.esproj|g:\\users\\gowthaman\\documents\\github\\vat_traders_billing_solution\\vat_traders_billing_solution.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B218E79D-03E8-B008-8A7B-2164A6BF2F56}|vat_traders_billing_solution.client\\vat_traders_billing_solution.client.esproj|solutionrelative:vat_traders_billing_solution.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}|VAT_Traders_Billing_Solution.Server\\VAT_Traders_Billing_Solution.Server.csproj|g:\\users\\gowthaman\\documents\\github\\vat_traders_billing_solution\\vat_traders_billing_solution.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF8C03-1648-4335-9A8F-FEF0EFB560BE}|VAT_Traders_Billing_Solution.Server\\VAT_Traders_Billing_Solution.Server.csproj|solutionrelative:vat_traders_billing_solution.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\vat_traders_billing_solution.client\\src\\App.css",
+              "RelativeDocumentMoniker": "vat_traders_billing_solution.client\\src\\App.css",
+              "ToolTip": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\vat_traders_billing_solution.client\\src\\App.css",
+              "RelativeToolTip": "vat_traders_billing_solution.client\\src\\App.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-03T07:06:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\VAT_Traders_Billing_Solution.Server\\Program.cs",
+              "RelativeDocumentMoniker": "VAT_Traders_Billing_Solution.Server\\Program.cs",
+              "ToolTip": "G:\\Users\\GOWTHAMAN\\Documents\\GitHub\\VAT_Traders_Billing_Solution\\VAT_Traders_Billing_Solution.Server\\Program.cs",
+              "RelativeToolTip": "VAT_Traders_Billing_Solution.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:06:26.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
